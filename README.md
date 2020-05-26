@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Some changes I introduced
 
+A bit of text under a hedding
+
 ## More change
