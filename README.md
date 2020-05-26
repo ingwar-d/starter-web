@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 A bit of text under a hedding
 
 ## More change
+
+Something for the staging area
+
+## More
+
+Something for the working directory
