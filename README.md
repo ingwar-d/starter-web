@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## How to contribute
+
+Please fork this repo
+
 ## Some changes I introduced
 
 A bit of text under a hedding
@@ -21,3 +25,4 @@ Something for the working directory
 ### Copyright
 
 Copyright 2020. Ingwardingwar
+
