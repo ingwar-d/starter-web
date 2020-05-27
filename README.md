@@ -17,3 +17,7 @@ Something for the staging area
 ## More
 
 Something for the working directory
+
+### Copyright
+
+Copyright 2020. Ingwardingwar
