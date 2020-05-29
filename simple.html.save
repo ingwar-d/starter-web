@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<--
+Copyright 2020. Ingwardingwar
+Adding changes before rebasing conflicts
+-->
+<head>
+	<title>Simpler Title</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	
+		<p>
+			Copyright Ingwar 2020.
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company of Mine 2014</p>
+	</footer>
+</body>
+</html>
