@@ -1,4 +1,4 @@
 .DS-store
-*/save
+*.save
 *.log
 simple.html.orig
