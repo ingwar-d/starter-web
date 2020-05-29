@@ -25,5 +25,5 @@ Something for the working directory
 
 ### Copyright
 
-Copyright 2020. Ingwardingwar
+Copyright 2020. Ingwardingwar. All rights reserved.
 
